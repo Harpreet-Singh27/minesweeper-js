@@ -2,13 +2,8 @@
 
 A simplified game of minesweeper using vanilla JavaScript
 
-In this walkthrough, I show you how to build Minesweeper in pure JavaScript, HTML, and CSS.
 
-This walkthrough was such a fun one to make as I really enjoyed explaining recursion with the help of a south-park-esque cat.
-
-If you have ever wondered what recursion was, this video is perfect for you! [Watch it here](https://www.youtube.com/watch?v=rxdGAKRndz8)
-
-In addition to this, we will also be practising using inbuilt methods such as:
+In this game alone, i practiced a lot of inbuild methods such as :
 
 - addEventListener()
 - setAttribute()
@@ -28,3 +23,7 @@ In addition to this, we will also be practising using inbuilt methods such as:
 - continue
 
 And many more.
+
+
+Watch this game working live here 
+[Click here](https://harpreet-singh27.github.io/minesweeper-js/ 'Solution')
